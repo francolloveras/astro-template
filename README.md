@@ -1,5 +1,4 @@
-![Demo picture](https://astro-template-rose.vercel.app/demo.png)
-
+![Demo picture](https://astro-template-francolloveras-project.vercel.app/demo.png)
 # 🚀 How to use
 
 You need to have [Node 18.14.1](https://nodejs.org) or later, and run:
